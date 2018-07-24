@@ -32,8 +32,8 @@ Explain and be able to use the following shell commands:<br />
     <br />
     - `touch`<br />
     use touch + filename to create a new file<br />
-    - `ls`<br />
     <br />
+    - `ls`<br />
     ls lists the files in the current directory<br />
     <br />
     - `pwd`<br />
