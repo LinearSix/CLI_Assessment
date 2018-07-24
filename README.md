@@ -24,6 +24,30 @@ What are flags?<br />
     * Flags specify options for command line commands (-l, -a,)<br />
  <br />
 What are file permissions and why do they exist?<br />
+    * Permissions exist to provide different functionality to different users. Read, write, and execution of files can be set.<br />
  <br />
 Explain and be able to use the following shell commands:<br />
+    - `cd`<br />
+    use cd + directory name/path to change directory<br />
+    <br />
+    - `touch`<br />
+    use touch + filename to create a new file<br />
+    - `ls`<br />
+    <br />
+    ls lists the files in the current directory<br />
+    <br />
+    - `pwd`<br />
+    pwd prints the working directory for your shell session<br />
+    <br />
+    - `mkdir`<br />
+    mkdir + filename creates a new sub-directory under your current working directory<br />
+    <br />
+    - `rm`<br />
+    use rm + filename to remove a file <br />
+    <br />
+    - `sudo`<br />
+    use sudo before certain package installations to access admin privileges.<br />
+    <br />
+    - `cat`<br />
+    cat + filename displays the content of the file. cat >> filename allows you to ammend the file.<br />
     <br />
